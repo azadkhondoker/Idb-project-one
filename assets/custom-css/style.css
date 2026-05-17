@@ -32,3 +32,32 @@ a{
 .f-title p{
     font-size: 18px;
 }
+
+
+.section-head{
+    text-align: center;
+    color: #fff;
+}
+
+.customer-review{
+    background-color: #030712;
+    padding: 100px;
+}
+
+
+
+
+.comment-card {
+    max-width: 400px;
+    border-radius: 15px;
+    padding: 2rem;
+    margin: 20px;
+        }
+.user-img {
+    width: 45px;
+    height: 45px;
+    object-fit: cover;
+        }
+p.text-muted {
+    text-align: justify;
+}
